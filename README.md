@@ -79,3 +79,9 @@ The user can run the test using `pytest test/test_app.py` command. This will gen
 [3] SQLAlchemy for FastAPI, https://fastapi.tiangolo.com/tutorial/sql-databases/
 
 [4] Cascade operations, https://docs.sqlalchemy.org/en/14/orm/cascades.html
+
+
+## Copyright (c) 2026 Your Name. All rights reserved.
+
+This source code is provided for viewing purposes only.
+No permission is granted to copy, modify, distribute, or use this code without explicit written permission.
