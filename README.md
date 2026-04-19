@@ -1,6 +1,6 @@
 # Healthcare Booking Tool
 
-**Developers:** Cindy Chiu, Jaya Khan 
+**Developers:** Eid Muhammad 'Full Stack AI Engineer'
 
 **Target Industry:** Health care (Clinic/Doctor’s Office)
 
